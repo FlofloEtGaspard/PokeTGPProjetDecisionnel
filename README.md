@@ -56,7 +56,7 @@ postgres_password = ""
 postgres_host = ""
 postgres_port = ""
 ```
-You'll have to modift these lines to make sur your database can be lnked to the script. 
+You'll have to modift these lines to make sur your database can be linked to the script. 
 
 4. **Data Visualisation:**
 
